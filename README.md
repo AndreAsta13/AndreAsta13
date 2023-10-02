@@ -7,11 +7,32 @@
 -  I have a degree in Python through Clarify
 -  I studied Html, CSS, Mobile Devices in my current Computer Science Course(I started in February 2023)
 ___________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
 - Idiomas
 - Portugues(nativo)
 - English (basic for studies and work)
 - Spanish (basic for studies)
 _____________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
 - Deficiencia
 - bilateral hearing loss (I'm pretty confident in lip reading)
   
