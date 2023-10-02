@@ -3,7 +3,7 @@
 
   ________________________________________________________________________________________________________________________________________________________________________________________
 -  Education
--  I'm currently learning python and I'm doing graduation at Unip
+-  I'm currently learning Python and I'm doing graduation at Unip
 -  I have a degree in Python through Clarify
 -  I studied Html, CSS, Mobile Devices in my current Computer Science Course(I started in February 2023)
 ___________________________________________________________________________________________________________________________________________________________________________________
@@ -47,7 +47,7 @@ ________________________________________________________________________________
 
 
 
-- 
+  
 
 
 <!---
