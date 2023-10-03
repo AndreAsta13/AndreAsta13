@@ -55,13 +55,11 @@ ________________________________________________________________________________
 
 - Professional Experience
 - Company: Edge Of Space Indústria, Comércio, Assessoria e Engenharia Ltda
-- Position: general service internship
-- Period: 02/01/2022 to 07/15/2022
+- Position: general service internship (Period: 02/01/2022 to 07/15/2022)
 - Contact with the company
 - contato@edgeofspace.com.br
-- or talk to
-- -Vandelei:55 12 98825-8165
-- -Ueda:55 12 98807-8845
+- or talk to Vandelei: 55 12 98825-8165
+             Ueda:     55 12 98807-8845
   
 
   
