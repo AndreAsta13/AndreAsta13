@@ -3,9 +3,9 @@
 
   ________________________________________________________________________________________________________________________________________________________________________________________
 -  Education
--  I'm currently learning Python and I'm doing graduation at Unip(Morning)
+- I'm doing graduation at Unip(Morning)(3rd semester)
 -  I have a degree in Python through Clarify(07/2023) -workload: 32 hs
--  I studied Html, CSS, Mobile Devices in my current Computer Science Course(I started in February 2023)
+-  I studied Html, CSS, Mobile Devices,Python and Java in my current Computer Science Course(I started in February 2023)
 ___________________________________________________________________________________________________________________________________________________________________________________
 
 
