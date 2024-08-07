@@ -4,9 +4,8 @@
 
   ________________________________________________________________________________________________________________________________________________________________________________________
 -  Education
-- I'm doing graduation at Unip(Morning)(3rd semester)
+- I'm doing graduation at Unip(nocturnal)(4rd semester)São José dos Campos
 -  I have a degree in Python through Clarify(07/2023) -workload: 32 hs
--  I studied Html, CSS, Mobile Devices,Python and Java in my current Computer Science Course(I started in February 2023)
 ___________________________________________________________________________________________________________________________________________________________________________________
 
 
