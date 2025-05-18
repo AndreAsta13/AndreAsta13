@@ -7,7 +7,7 @@
 - Unip (noturno) (5º semestre) em São José dos Campos
   Inicio: 08/2023    termino: 12/2027    Curso: Ciencias da Comoutação
   
--  Clarify(07/2023) 
+-  Clarify (07/2023) 
 -  Carga horária: 32 horas + Unip  Curso: Python
 
 -  Santander  (02/2025)
