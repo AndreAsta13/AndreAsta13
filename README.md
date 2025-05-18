@@ -22,8 +22,8 @@ ________________________________________________________________________________
 
 - Idiomas
 - Portugues(nativo)
-- English (basic for studies and work)
-- Spanish (basic for studies)
+- English (basic)
+- Spanish (basic)
 
 
 
