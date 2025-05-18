@@ -4,7 +4,7 @@
 
   ________________________________________________________________________________________________________________________________________________________________________________________
 -  Education
-- I'm doing graduation at Unip(nocturnal)(4rd semester)São José dos Campos
+- I'm doing Education at Unip(nocturnal)(4rd semester)São José dos Campos
 -  I have a degree in Python through Clarify(07/2023) -workload: 32 hs + Unip
 -  I have a degree in Html,Css,Javascript through Santader(02/2025) -workload: 2 hs + Unip
 ___________________________________________________________________________________________________________________________________________________________________________________
