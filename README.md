@@ -3,7 +3,7 @@
 
   ________________________________________________________________________________________________________________________________________________________________________________________
 - Educação
-- 
+
 - Unip (noturno) (5º semestre) em São José dos Campos
   Inicio: 08/2023    termino: 12/2027    Curso: Ciencias da Comoutação
   
@@ -65,6 +65,7 @@ ________________________________________________________________________________
 - Empresa: Edge Of Space Indústria, Comércio, Assessoria e Engenharia Ltda
 - Cargo: estágio de serviços gerais (Período: 01/02/2022 a 05/07/2022)
 - Contato: contato@edgeofspace.com.br ou Telefone: Vanderlei: 55 12 98825-8165 ou Ueda: 55 12 98807-8845
+  
   
 
   
