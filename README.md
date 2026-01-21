@@ -4,7 +4,7 @@
   ________________________________________________________________________________________________________________________________________________________________________________________
 - Educação
 
-- Unip (noturno) (5º semestre) em São José dos Campos
+- Unip (noturno) (7º semestre) em São José dos Campos
 - Inicio: 08/2023    termino: 12/2027    Curso: Ciencias da Computação
   
 -  Clarify (07/2023) 
